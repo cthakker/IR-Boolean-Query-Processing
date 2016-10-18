@@ -1,6 +1,4 @@
-# IR-Boolean-Query-Processing
-Information Retrieval
-
+# Information Retrieval Boolean Query Processing
 
 The problem statement is defined in CSE535_Fall2015ProgAsgnmt.pdf
 
