@@ -1,6 +1,6 @@
-# Information Retrieval Boolean Query Processing
+# Information Retrieval Boolean Query Processor
 
-The problem statement is defined in CSE535_Fall2015ProgAsgnmt.pdf
+The task to be performed is defined in CSE535_Fall2015ProgAsgnmt.pdf file
 
 The code is written under src/irassignment folder.
 
